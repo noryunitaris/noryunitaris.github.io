@@ -1,0 +1,41 @@
+img{
+	width: 100%;
+}
+
+#wrapper{
+	color: red;}
+body{
+	background-color: transparent;
+	background: url("image/ios.png")no-repeat scroll;
+	background-size: 100% 100%;
+	min-height: 700px;
+}
+.logo{
+	width: 70%;
+}
+
+#kontakku{
+	width: 35px; margin-top: 10px;
+}
+
+#initwit{
+	margin-top: -55px;
+	margin-left: 45px;
+}
+
+#inigplus{
+	margin-top: -80px;
+	margin-left: 80px;
+}
+
+/*@media (min-width: 325px) and (max-width: 750px){
+	#initwit{
+	margin-top: -55px;
+	margin-left: 40px;
+}*/
+
+#inigplus{
+	margin-top: -89px;
+	margin-left: 89px;
+}
+}
